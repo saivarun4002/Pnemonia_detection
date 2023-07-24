@@ -1,1 +1,1 @@
-# Pnemonia_detection
+# Pneumonia_detection
